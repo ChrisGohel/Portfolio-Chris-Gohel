@@ -78,7 +78,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "7019 Water Glen Lane, 77578, Manvel, TX ",
+  address: "Greater Houston Area, TX",
   phoneNo: "832-231-1970 ",
   email: "chrisgohel1@gmail.com",
 };
